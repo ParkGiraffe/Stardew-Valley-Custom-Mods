@@ -1,0 +1,26 @@
+{
+  "Format": "2.0.0",
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/craftables.xnb",
+      "FromFile": "assets/craftables.xnb",
+      "FromArea": { "X": 16, "Y": 1122, "Width": 112, "Height": 30 },
+      "ToArea": { "X": 16, "Y": 1122, "Width": 112, "Height": 30 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/craftables.xnb",
+      "FromFile": "assets/craftables.xnb",
+      "FromArea": { "X": 0, "Y": 1152, "Width": 128, "Height": 32 },
+      "ToArea": { "X": 0, "Y": 1152, "Width": 128, "Height": 32 }
+    },
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/craftables.xnb",
+      "FromFile": "assets/craftables.xnb",
+      "FromArea": { "X": 0, "Y": 1184, "Width": 32, "Height": 32 },
+      "ToArea": { "X": 0, "Y": 1184, "Width": 32, "Height": 32 }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+   "Name": "Change Craftables",
+   "Author": "ParkGiraffe",
+   "Version": "1.0.0",
+   "Description": "A mod that changes your craftables.",
+   "UniqueID": "ParkGiraffe.Craftables",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
